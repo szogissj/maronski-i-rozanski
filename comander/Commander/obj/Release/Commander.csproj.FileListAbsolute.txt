@@ -1,0 +1,9 @@
+C:\Users\Kamil\documents\visual studio 2015\Projects\Commander\Commander\bin\Release\Commander.exe
+C:\Users\Kamil\documents\visual studio 2015\Projects\Commander\Commander\bin\Release\Commander.pdb
+C:\Users\Kamil\documents\visual studio 2015\Projects\Commander\Commander\obj\Release\Commander.Dialogs.NewFolderDialog.resources
+C:\Users\Kamil\documents\visual studio 2015\Projects\Commander\Commander\obj\Release\Commander.MainView.resources
+C:\Users\Kamil\documents\visual studio 2015\Projects\Commander\Commander\obj\Release\Commander.Properties.Resources.resources
+C:\Users\Kamil\documents\visual studio 2015\Projects\Commander\Commander\obj\Release\Commander.csproj.GenerateResource.Cache
+C:\Users\Kamil\documents\visual studio 2015\Projects\Commander\Commander\obj\Release\Commander.exe
+C:\Users\Kamil\documents\visual studio 2015\Projects\Commander\Commander\obj\Release\Commander.pdb
+C:\Users\Kamil\documents\visual studio 2015\Projects\Commander\Commander\obj\Release\Commander.csprojResolveAssemblyReference.cache

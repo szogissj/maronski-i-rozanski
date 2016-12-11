@@ -1,0 +1,22 @@
+c:\users\kamil\documents\visual studio 2015\Projects\Commander\Commander\bin\Debug\Commander.exe
+c:\users\kamil\documents\visual studio 2015\Projects\Commander\Commander\bin\Debug\Commander.pdb
+c:\users\kamil\documents\visual studio 2015\Projects\Commander\Commander\obj\Debug\Commander.csprojResolveAssemblyReference.cache
+c:\users\kamil\documents\visual studio 2015\Projects\Commander\Commander\obj\Debug\Commander.Properties.Resources.resources
+c:\users\kamil\documents\visual studio 2015\Projects\Commander\Commander\obj\Debug\Commander.csproj.GenerateResource.Cache
+c:\users\kamil\documents\visual studio 2015\Projects\Commander\Commander\obj\Debug\Commander.exe
+c:\users\kamil\documents\visual studio 2015\Projects\Commander\Commander\obj\Debug\Commander.pdb
+c:\users\kamil\documents\visual studio 2015\Projects\Commander\Commander\obj\Debug\Commander.MainView.resources
+C:\Users\Kamil\documents\visual studio 2015\Projects\Commander\Commander\obj\Debug\Commander.Views.PreviewView.resources
+C:\Users\Kamil\documents\visual studio 2015\Projects\Commander\Commander\obj\Debug\Commander.Dialogs.NewItemDialog.resources
+C:\Users\Kamil\documents\visual studio 2015\Projects\Commander\Commander\obj\Debug\Commander.Dialogs.RenameDialog.resources
+C:\Users\user\Desktop\comander\Commander\obj\Debug\Commander.exe
+C:\Users\user\Desktop\comander\Commander\obj\Debug\Commander.pdb
+C:\Users\user\Desktop\comander\Commander\bin\Debug\Commander.exe
+C:\Users\user\Desktop\comander\Commander\bin\Debug\Commander.pdb
+C:\Users\user\Desktop\comander\Commander\obj\Debug\Commander.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\comander\Commander\obj\Debug\Commander.Dialogs.RenameDialog.resources
+C:\Users\user\Desktop\comander\Commander\obj\Debug\Commander.Dialogs.NewItemDialog.resources
+C:\Users\user\Desktop\comander\Commander\obj\Debug\Commander.MainView.resources
+C:\Users\user\Desktop\comander\Commander\obj\Debug\Commander.Properties.Resources.resources
+C:\Users\user\Desktop\comander\Commander\obj\Debug\Commander.Views.PreviewView.resources
+C:\Users\user\Desktop\comander\Commander\obj\Debug\Commander.csproj.GenerateResource.Cache
